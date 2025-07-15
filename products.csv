@@ -1,0 +1,121 @@
+product_id,name,category,brand,price,stock_quantity,added_date,rating
+PROD0001,Rise Respond,Electronics,Hale LLC,347.61,150,03-03-2025,2
+PROD0002,Plant Agreement,Apparel,Brown Inc,7391.07,356,16-03-2025,4
+PROD0003,Within People,Sports,"Ingram, Estes and Frost",960.69,226,03-03-2025,1
+PROD0004,May Trip,Electronics,Mills and Sons,2264.52,268,28-02-2025,3
+PROD0005,South Establish,Sports,Ramos LLC,2068.49,342,29-12-2024,4
+PROD0006,Phone Reach,Beauty,Roberts Inc,2282.36,311,20-01-2025,2
+PROD0007,Campaign Others,Electronics,Ellis-Warren,7612.19,91,07-08-2024,4
+PROD0008,Detail Girl,Home,Arias-Farmer,2850.93,120,12-04-2025,5
+PROD0009,Project Current,Home,Perez-Livingston,1111.88,204,07-10-2024,1
+PROD0010,Interesting Above,Home,Thomas PLC,6076.89,423,09-12-2024,1
+PROD0011,Against Become,Beauty,Barber-Payne,5408.66,482,05-11-2024,3
+PROD0012,When Dinner,Sports,Matthews Inc,3002.46,331,10-09-2024,4
+PROD0013,Recently If,Home,Kelly and Sons,5815.79,370,25-02-2025,1
+PROD0014,Hotel Meet,Apparel,"Li, Phillips and Hudson",7753.38,50,21-12-2024,4
+PROD0015,Range Strong,Electronics,Stevens-Flores,3863.25,242,25-03-2025,4
+PROD0016,Seem Similar,Home,Le-Bailey,1710.28,191,03-11-2024,2
+PROD0017,Nature Cold,Home,"Adams, Ward and Salazar",7048.02,359,12-10-2024,4
+PROD0018,Notice Stop,Sports,Walker-Lawson,6386.29,283,20-06-2025,4
+PROD0019,Life Nice,Apparel,Smith Inc,4676.38,148,24-07-2024,5
+PROD0020,Produce Bring,Sports,"Ford, Davis and Carter",2274.19,176,02-08-2024,4
+PROD0021,Child Build,Electronics,Wilcox-Davis,2367.58,26,24-09-2024,4
+PROD0022,Prove Born,Beauty,"Rhodes, Perez and Brooks",2750.63,118,05-02-2025,5
+PROD0023,Huge Bag,Sports,Reed PLC,8776.04,171,16-10-2024,2
+PROD0024,Station Local,Beauty,Thompson Ltd,4016.76,478,18-04-2025,4
+PROD0025,Time Road,Apparel,"Reed, Watson and Bender",2722.31,136,06-06-2025,4
+PROD0026,Walk Skin,Sports,Stone Ltd,2701.14,309,30-06-2024,3
+PROD0027,Character Just,Sports,Allison-Parker,4054.07,122,05-05-2025,5
+PROD0028,True Enough,Apparel,"Reilly, Chandler and Greene",5144.31,56,29-03-2025,4
+PROD0029,Imagine Size,Electronics,"Byrd, Rodriguez and Johnson",1613.13,91,16-12-2024,4
+PROD0030,Onto Future,Beauty,"Castro, Leonard and Hoover",6004.45,207,08-04-2025,3
+PROD0031,Once Find,Beauty,Middleton-Snow,5338.23,293,11-09-2024,4
+PROD0032,Card Keep,Electronics,Mckinney-Campbell,6834.81,68,27-02-2025,4
+PROD0033,Energy Action,Sports,Miller-Garcia,7533.69,403,07-12-2024,4
+PROD0034,Collection Find,Electronics,Gamble Group,3005.65,90,13-02-2025,3
+PROD0035,Floor Before,Home,Waller-Murray,9721.69,400,10-01-2025,2
+PROD0036,Task Teach,Electronics,"Lee, Roberts and Young",8718.13,162,11-09-2024,4
+PROD0037,College Year,Sports,"Townsend, Jackson and Chase",6128.81,88,01-10-2024,3
+PROD0038,Middle Never,Apparel,Thomas Ltd,5439.85,408,05-03-2025,5
+PROD0039,The Better,Electronics,"Stafford, Smith and Smith",6029.55,260,23-05-2025,1
+PROD0040,These Watch,Home,Ruiz Inc,8799.35,435,03-01-2025,4
+PROD0041,Building Model,Apparel,"Hall, Chase and Sanchez",673.46,459,16-03-2025,3
+PROD0042,Should Five,Electronics,"Barker, Adams and Olson",947.97,258,19-03-2025,4
+PROD0043,Everyone Attention,Sports,"Stephenson, Johnson and Garcia",7681.76,75,26-09-2024,4
+PROD0044,Support Marriage,Sports,"Marquez, Smith and Le",1734.76,280,04-07-2024,5
+PROD0045,Pressure Arrive,Beauty,George Ltd,9647.19,485,14-11-2024,3
+PROD0046,Rather Four,Apparel,"Banks, Brown and Cardenas",7158.19,214,27-11-2024,5
+PROD0047,Week Subject,Home,Rose-Reese,4437.19,274,14-11-2024,3
+PROD0048,Style Across,Apparel,"Love, Bailey and Fitzpatrick",2324.5,183,14-02-2025,1
+PROD0049,Wrong Case,Sports,Franklin PLC,2378.14,122,02-02-2025,1
+PROD0050,Article Newspaper,Electronics,Hobbs PLC,2366.52,473,22-12-2024,1
+PROD0051,Director Argue,Home,"Mcintyre, Gordon and Powell",801.49,131,16-05-2025,2
+PROD0052,Whole Down,Beauty,Clark-Jones,2220.94,77,14-09-2024,4
+PROD0053,Range Civil,Sports,Collins-Jones,5804.5,134,04-12-2024,4
+PROD0054,Ok Church,Beauty,Roy-Ritter,1985.06,59,01-12-2024,4
+PROD0055,Politics Sense,Home,Henson Group,4293.43,249,13-08-2024,5
+PROD0056,White Determine,Electronics,Brown-Kelly,6766.31,340,26-06-2024,1
+PROD0057,Around Price,Beauty,Cannon-Benson,7309.31,419,15-09-2024,4
+PROD0058,Parent Short,Apparel,"Carpenter, Jones and Taylor",1996.74,284,28-09-2024,3
+PROD0059,Certainly Along,Beauty,Bradford PLC,1916.53,246,16-10-2024,2
+PROD0060,Road Maybe,Electronics,"Cruz, Gonzalez and Cole",4486.99,451,26-03-2025,4
+PROD0061,Seat Kitchen,Electronics,Heath-Rodriguez,600.82,286,24-09-2024,4
+PROD0062,Than About,Electronics,"Cummings, Thomas and Sanchez",9271.03,444,21-01-2025,2
+PROD0063,Which Police,Beauty,"White, Fernandez and Hernandez",4907.85,119,16-02-2025,5
+PROD0064,Federal Serve,Electronics,Garrison-Singleton,1729.91,11,21-03-2025,5
+PROD0065,Each Forget,Home,"Williams, Sutton and Lopez",9272.53,411,06-10-2024,3
+PROD0066,Look Night,Beauty,Johnson-Jones,6996.26,384,22-01-2025,5
+PROD0067,First Rather,Sports,"Garrett, Pham and Gallegos",6652.53,259,08-03-2025,2
+PROD0068,When Bag,Home,"Smith, Watson and Harris",2255.24,39,08-09-2024,3
+PROD0069,Money But,Sports,Carter-Howard,703.48,170,02-03-2025,1
+PROD0070,This Theory,Sports,English PLC,4820.21,480,19-09-2024,4
+PROD0071,Around Republican,Apparel,Marshall Inc,663.11,270,11-05-2025,1
+PROD0072,Day Trial,Apparel,Weaver-Harris,778.36,44,14-01-2025,4
+PROD0073,When Would,Apparel,"Garcia, Mcgee and Hunter",4097.38,492,29-08-2024,5
+PROD0074,Full Choose,Apparel,"Hall, Welch and Davis",5831.3,30,13-07-2024,4
+PROD0075,White Lose,Beauty,Lopez Ltd,6607.99,299,23-06-2025,3
+PROD0076,Field Attorney,Home,"Harris, Stone and Hoover",2122.17,376,02-04-2025,2
+PROD0077,Toward Grow,Home,Ochoa PLC,4018.28,353,29-05-2025,4
+PROD0078,Each Scientist,Beauty,"Terrell, James and Bell",3230.15,394,12-03-2025,5
+PROD0079,Book Matter,Electronics,Keith Group,4637.03,298,23-12-2024,5
+PROD0080,Soldier Help,Electronics,"Jones, Pena and Barnes",5422.58,269,05-07-2024,2
+PROD0081,System Hear,Home,Olson-Aguilar,8820.56,460,10-07-2024,2
+PROD0082,Small Husband,Home,King-Barton,1661.69,436,01-09-2024,3
+PROD0083,Free Buy,Home,Mcintosh-Garcia,6155.61,423,01-01-2025,4
+PROD0084,Head Factor,Electronics,Black-Rojas,6711.85,293,25-12-2024,2
+PROD0085,Project Four,Electronics,Boyd-Peterson,9395.41,78,02-05-2025,2
+PROD0086,Prevent Tough,Electronics,Williamson LLC,7449.93,89,24-12-2024,2
+PROD0087,Compare And,Sports,Shelton PLC,2185.23,185,30-10-2024,2
+PROD0088,Hard Parent,Home,"Shah, Reyes and Sullivan",5103.55,138,14-11-2024,5
+PROD0089,Book Agent,Electronics,Wallace-Jones,1013.75,226,29-04-2025,4
+PROD0090,Summer Building,Electronics,"Hogan, Lopez and Collins",135.1,404,02-01-2025,2
+PROD0091,Generation Land,Home,Porter and Sons,1699.66,236,22-11-2024,3
+PROD0092,Toward For,Beauty,"King, Jackson and Torres",5652.98,67,29-07-2024,1
+PROD0093,House Avoid,Apparel,Hill-Griffin,5501.34,437,10-10-2024,3
+PROD0094,Play Nor,Sports,"Stone, Miller and Becker",1566.13,75,09-01-2025,1
+PROD0095,Long Inside,Home,Young-Coleman,8999.92,417,27-07-2024,5
+PROD0096,Doctor Issue,Electronics,Benson and Sons,8999.35,117,18-09-2024,4
+PROD0097,Never Quite,Electronics,Church Inc,3601.42,296,13-06-2025,5
+PROD0098,Receive Event,Beauty,"Joseph, Davis and Blake",9740.99,393,10-09-2024,2
+PROD0099,Look Information,Apparel,Andrews-Robinson,8659.6,419,24-03-2025,4
+PROD0100,Whom Main,Beauty,Adams-Miller,345.38,387,15-09-2024,5
+PROD0101,Consumer Accept,Beauty,"Stewart, Perez and Cook",8042.13,452,30-12-2024,4
+PROD0102,Laugh Take,Apparel,Jackson and Sons,2741.38,413,13-04-2025,4
+PROD0103,Approach Phone,Beauty,"Gates, Hayden and Hines",8734.45,449,30-10-2024,3
+PROD0104,Step Model,Apparel,Thompson-Smith,8184.21,245,23-06-2025,2
+PROD0105,Customer Daughter,Apparel,Clark-Garcia,2306.94,347,05-11-2024,2
+PROD0106,Garden Trial,Home,Davis-Hicks,2858.17,45,24-01-2025,5
+PROD0107,Investment Find,Home,Warren-Fisher,3576.35,270,19-08-2024,3
+PROD0108,Source Term,Sports,"Stephens, Dominguez and King",3378.38,24,28-09-2024,2
+PROD0109,News American,Home,"Williams, Joyce and Wyatt",1867.82,145,22-01-2025,1
+PROD0110,Action Across,Sports,"Brock, Moreno and Morris",4402.18,383,03-01-2025,4
+PROD0111,Would Court,Beauty,Hansen Inc,6101.47,271,22-04-2025,2
+PROD0112,Already Different,Sports,Bryant and Sons,1981.78,32,24-09-2024,4
+PROD0113,Edge Rule,Electronics,"Pugh, Turner and Fisher",5247.21,422,19-11-2024,3
+PROD0114,Left See,Apparel,"Jones, Schwartz and Edwards",3705.79,45,29-03-2025,5
+PROD0115,Need Agreement,Home,Chen-Reed,6269.24,349,06-10-2024,4
+PROD0116,War Last,Home,Lopez-May,5120.51,351,20-09-2024,3
+PROD0117,Mean Thank,Beauty,Martin-Dennis,7002.36,293,16-09-2024,2
+PROD0118,Though Cover,Beauty,Nichols Ltd,6682.8,204,09-10-2024,4
+PROD0119,Agreement Report,Apparel,"Jones, Riggs and Jones",6193.6,164,27-03-2025,3
+PROD0120,Knowledge Base,Electronics,Thomas-Braun,3108.36,117,21-05-2025,3
